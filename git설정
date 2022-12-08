@@ -1,0 +1,5 @@
+Git 명령어 총정리집 (by 코딩알려주는 누나❤) - HackMD - https://hackmd.io/@oW_dDxdsRoSpl0M64Tfg2g/ByfwpNJ-K
+
+git add .
+git commit -m "221208-1701" 날짜-시간 버전
+git push origin master
