@@ -57,12 +57,7 @@ head *= 10
 print(head)
 
 문자열 길이 구하기
-
-////////////////////////////////////////'''
 a="You need python"
 print(len(a))
-#a = "Life is too short, You need Python"
-#print(len(a))
-#print(a[1])
+////////////////////////////////////////'''
 
-#print(a[:8])
